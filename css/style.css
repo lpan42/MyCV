@@ -287,13 +287,17 @@ header {
 }
 
 .portfolio {
-  display:flex;
-  justify-content: center;
+  /* display:flex;
+  justify-content: center; */
   padding:40px;
+}
+.projectdetail{
+  font-size: 15px;
 }
  .video{
     width:40vh;
  }
+
 .linktowork{
   color: var(--clr-accent);
   font-size: 30px;
